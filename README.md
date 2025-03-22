@@ -2,4 +2,6 @@
 
 # Curso digital: Git
 
-- git add - adiciona o arquivo ao staging area
+- git init
+- inicializa um repositório do Git vazio
+- usar quando quiser criar um novo repositório em um diretório existente
